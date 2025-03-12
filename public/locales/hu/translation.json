@@ -1,0 +1,112 @@
+{
+    "navbarHome": "FŐOLDAL",
+    "navbarCars": "AUTÓK",
+    "navbarAddCar": "AUTÓ HOZZÁADÁS",
+    "navbarLogin": "BEJELENTKEZÉS",
+    "navbarExtras": "EXTRÁK",
+    "navbarAddExtra": "EXTRA HOZZÁADÁS",
+    "navbarTheme": "TÉMA",
+    
+    "carListPageMessage": "Autók listája",
+    "extraListPageMessage": "Extrák listájának oldala",
+
+    "welcomeMessage": "Üdvözlünk az alkalmazásban!",
+    "languageSwitch": "Nyelvváltás",
+    "login": "Bejelentkezés",
+    "logout": "Kijelentkezés",
+    "registration": "Regisztráció",
+    "greeting": "Szia, {{name}}!",
+
+    "username_form": "Felhasznaló",
+    "password_form": "Jelszó",
+    "confirmPassword_form": "Jelszó megerősítés",
+    "email_form": "Email cím",
+
+    "buttonEdit": "Módosítás",
+    "buttonDelete": "Törlés",
+    "buttonDetails": "Részletek",
+    "buttonSave": "Mentés",
+    "buttonAdd": "Hozzáadás",
+    "buttonSaveChanges": "Változtatások mentése",
+    "buttonAddCar": "Autó hozzáadása",
+    "buttonAddExtra": "Extra hozzáadása",
+
+    "pageCarDetails": "Autó részleteinek oldala",
+    "pageExtraDetails": "Extrák részleteinek oldala",
+
+    "extraID": "Extra ID/azonosító",
+    "extraName": "Extra elnevezése",
+    "description": "Leírás",
+    "extras": "Extrák",
+    "noExtras": "Az autó nem rendelkezik semmilyen extrával",
+
+    "searchFieldTextCar": "Autó keresése márka vagy modell alapján",
+    "searchFieldTextExtra": "Extra keresése név alapján",
+
+    "year": "Évjárat",
+    "brand": "Márka",
+    "price": "Ár",
+    "carId": "Autó ID/azonosító",
+    "uploadDate": "Feltöltési dátum",
+    "mileage": "Kilométer",
+    "model": "Modell",
+    "carPower": "Teljesítmény (LE)",
+    "fuelType": "Üzemanyag",
+    "transmission": "Sebességváltó",
+    "cubicCapacity": "Hengerűrtartalom",
+
+    "diesel": "Dízel",
+    "electric": "Elektromos",
+    "ethanol": "Etanol",
+    "hybrid": "Hibrid",
+    "hydrogen": "Hidrogén",
+    "lpg": "LPG",
+    "petrol": "Benzin",
+    "plugin": "Plug-in hibrid",
+
+    "automatic": "Automata",
+    "semiAutomatic": "Félautomata",
+    "manual": "Manuális",
+
+    "loadingCarDataMessage": "Autó adatainak betöltése ...",
+    "loadingExtraDataMessage": "Extrák adatainak betöltése ...",
+    
+    "noCarsMessage": "Nincsenek elérhető autók",
+    "noExtrasMessage": "Nincsenek elérhető extrák",
+
+    "editCarMessage": "Autó adatainak modositása",
+    "addCarMessage": "Új auto hozzáadása",
+    "editExtraMessage": "A kiegészítő adatok módosítása",
+    "addExtraMessage": "Új kiegészítő hozzáadása",
+
+    "editCarMessageSuccessfully": "Sikeresen modosította az autó adatait",
+    "addCarMessageSuccessfully": "Sikeres új autó hozzáadás",
+    "deleteCarMessageSuccessfully": "Sikerese autó törlés",
+
+    "getCarMessageError": "Sikertelen adat betöltés",
+    "editCarMessageError": "Sikertelen modosítás az autó adatait tekintve",
+    "addCarMessageError": "Sikeretelen új autó hozzáadás",
+    "deleteCarMessageError": "Sikertelen autó törlés",
+
+    "editExtraMessageSuccessfully": "Az extra adatai sikeresen módosítva",
+    "addExtraMessageSuccessfully": "Új extra sikeresen hozzáadva",
+    "deleteExtraMessageSuccessfully": "Az extra sikeresen törölve",
+    "loginMessageSuccessfully": "Sikeresen bejelentkezett!",
+    "registerMessageSuccessfully": "Sikeres regisztráció!",
+
+    "getExtraMessageError": "Az extra adatok betöltése sikertelen",
+    "editExtraMessageError": "Az extra adatainak módosítása sikertelen",
+    "addExtraMessageError": "Új extra hozzáadása sikertelen",
+    "deleteExtraMessageError": "Az extra törlése sikertelen",
+
+    "registerHereMessage": "Nincs még fiókja? Regisztráljon itt!",
+    "loginHereMessage": "Van már fiókja? Jelentkezzen be itt!",
+
+    "cannotFindPage": "A kért oldal nem található.",
+
+    "error": {
+      "network": "Hálózati hiba, kérlek próbáld újra később.",
+      "unauthorized": "Nincs jogosultságod az oldal megtekintéséhez."
+    }
+  }
+  
