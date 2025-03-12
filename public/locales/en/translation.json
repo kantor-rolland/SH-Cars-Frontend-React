@@ -1,0 +1,112 @@
+{
+    "navbarHome": "HOME",
+    "navbarCars": "CARS",
+    "navbarAddCar": "ADD CAR",
+    "navbarLogin": "LOGIN",
+    "navbarExtras": "EXTRAS",
+    "navbarAddExtra": "ADD EXTRA",
+    "navbarTheme": "THEME",
+
+    "carListPageMessage": "Car List",
+    "extraListPageMessage": "Extras list page",
+
+    "welcomeMessage": "Welcome to our application!",
+    "languageSwitch": "Switch Language",
+    "login": "Log in",
+    "logout": "Log out",
+    "registration": "Registration",
+    "greeting": "Hello, {{name}}!",
+    
+    "username_form": "Username",
+    "password_form": "Password",
+    "confirmPassword_form": "Confirm password",
+    "email_form": "Email",
+
+    "buttonEdit": "Edit",
+    "buttonDelete": "Delete",
+    "buttonDetails": "Details",
+    "buttonSave": "Save",
+    "buttonAdd": "Add",
+    "buttonSaveChanges": "Save Changes",
+    "buttonAddCar": "Add Car",
+    "buttonAddExtra": "Add Extra",
+
+    "pageCarDetails": "Car details page",
+    "pageExtraDetails": "Extra details page",
+
+    "searchFieldTextCar": "Search car by Brand or Model",
+    "searchFieldTextExtra": "Search extra by Name",
+
+    "year": "Year",
+    "brand": "Brand",
+    "price": "Price",
+    "carId": "Car ID",
+    "uploadDate": "Upload Date",
+    "mileage": "Mileage",
+    "model": "Model",
+    "carPower": "Power (HP)",
+    "fuelType": "Fuel Type",
+    "transmission": "Transmission",
+    "cubicCapacity": "Cubic Capacity",
+
+    "diesel": "Diesel",
+    "electric": "Electric",
+    "ethanol": "Ethanol",
+    "hybrid": "Hybrid",
+    "hydrogen": "Hydrogen",
+    "lpg": "LPG",
+    "petrol": "Petrol",
+    "plugin": "Plug-in Hybrid",
+
+    "automatic": "Automatic",
+    "semiAutomatic": "Semi-automatic",
+    "manual": "Manual",
+
+    "extraID": "Extra ID",
+    "extraName": "Extra name",
+    "description": "Description",
+    "extras": "Extras",
+    "noExtras": "The car does not have any extras",
+
+    "loadingCarDataMessage": "Loading car data ...",
+    "loadingExtraDataMessage": "Loading extra data ...",
+
+    "noCarsMessage": "No cars available",
+    "noExtrasMessage": "No extras available",
+
+    "editCarMessage": "Edit Car Information",
+    "addCarMessage": "Add New Car",
+    "editExtraMessage": "Editing extra details",
+    "addExtraMessage": "Adding a new extra",
+    
+    "editCarMessageSuccessfully": "Successfully edited car details",
+    "addCarMessageSuccessfully": "Successfully added a new car",
+    "deleteCarMessageSuccessfully": "Successfully deleted the car",
+
+    "getCarMessageError": "Failed to load car data",
+    "editCarMessageError": "Failed to edit car details",
+    "addCarMessageError": "Failed to add a new car",
+    "deleteCarMessageError": "Failed to delete the car",
+
+    "editExtraMessageSuccessfully": "Successfully edited extra details",
+    "addExtraMessageSuccessfully": "Successfully added a new extra",
+    "deleteExtraMessageSuccessfully": "Successfully deleted the extra",
+    "loginMessageSuccessfully": "Successfully logged in!",
+    "registerMessageSuccessfully": "Registration successful!",
+    
+    "getExtraMessageError": "Failed to load extra data",
+    "editExtraMessageError": "Failed to edit extra details",
+    "addExtraMessageError": "Failed to add a new extra",
+    "deleteExtraMessageError": "Failed to delete the extra",
+
+    "registerHereMessage": "Don't have an account? Register here!",
+    "loginHereMessage": "Already have an account? Log in here!",
+    
+    "cannotFindPage": "Cannot find the requested page.",
+
+    "error": {
+      "network": "Network error, please try again later.",
+      "unauthorized": "You are not authorized to view this page."
+    }
+  }
+  

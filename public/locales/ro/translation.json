@@ -1,0 +1,111 @@
+{
+  "navbarHome": "ACASĂ",
+  "navbarCars": "MAȘINI",
+  "navbarAddCar": "ADAUGĂ MAȘINĂ",
+  "navbarLogin": "AUTENTIFICARE",
+  "navbarExtras": "DOTĂRI",
+  "navbarAddExtra": "ADAUGĂ EXTRA",
+  "navbarTheme": "TEMĂ",
+  
+  "carListPageMessage": "Lista de mașini",
+  "extraListPageMessage": "Lista de dotări",
+
+  "welcomeMessage": "Bun venit în aplicație!",
+  "languageSwitch": "Schimbă limba",
+  "login": "Autentificare",
+  "logout": "Deconectare",
+  "registration": "Înregistrare",
+  "greeting": "Salut, {{name}}!",
+
+  "username_form": "Nume utilizator",
+  "password_form": "Parolă",
+  "confirmPassword_form": "Confirmare parolă",
+  "email_form": "Adresă de email",
+
+  "buttonEdit": "Modificare",
+  "buttonDelete": "Ștergere",
+  "buttonDetails": "Detalii",
+  "buttonSave": "Salvează",
+  "buttonAdd": "Adaugă",
+  "buttonSaveChanges": "Salvează modificările",
+  "buttonAddCar": "Adaugă mașină",
+  "buttonAddExtra": "Adaugă extra",
+
+  "pageCarDetails": "Pagina detalii mașină",
+  "pageExtraDetails": "Pagina detalii dotare",
+
+  "searchFieldTextCar": "Căutare mașină după marcă sau model",
+  "searchFieldTextExtra": "Căutare extra după nume",
+
+  "year": "An",
+  "brand": "Marcă",
+  "price": "Preț",
+  "carId": "ID-ul/identificatorul mașinii",
+  "uploadDate": "Data încărcării",
+  "mileage": "Kilometraj",
+  "model": "Model",
+  "carPower": "Putere (CP)",
+  "fuelType": "Combustibil",
+  "transmission": "Transmisie",
+  "cubicCapacity": "Capacitate cilindrică",
+
+  "diesel": "Motorină",
+  "electric": "Electric",
+  "ethanol": "Etanol",
+  "hybrid": "Hibrid",
+  "hydrogen": "Hidrogen",
+  "lpg": "GPL",
+  "petrol": "Benzină",
+  "plugin": "Hibrid Plug-in",
+
+  "automatic": "Automata",
+  "semiAutomatic": "Semi-automata",
+  "manual": "Manuala",
+
+  "extraID": "ID-ul/identificatorul dotării",
+  "extraName": "Denumirea dotare",
+  "description": "Descriere",
+  "extras": "Dotări",
+  "noExtras": "Mașina nu are nicio dotare suplimentară",
+
+  "loadingCarDataMessage": "Se încarcă datele mașinii ...",
+  "loadingExtraDataMessage": "Se încarcă datele dotărilor ...",
+
+  "noCarsMessage": "Nu sunt mașini disponibile",
+  "noExtrasMessage": "Nu există dotări disponibile",
+
+  "editCarMessage": "Modificarea datelor mașinii",
+  "addCarMessage": "Adăugare mașină nouă",
+  "editExtraMessage": "Modificarea datelor dotării",
+  "addExtraMessage": "Adăugare dotare nouă",
+
+  "editCarMessageSuccessfully": "Ați modificat cu succes detaliile mașinii",
+  "addCarMessageSuccessfully": "Adăugarea unei mașini noi a fost realizată cu succes",
+  "deleteCarMessageSuccessfully": "Ștergerea mașinii a fost realizată cu succes",
+
+  "getCarMessageError": "Încărcarea datelor a eșuat",
+  "editCarMessageError": "Modificarea detaliilor mașinii a eșuat",
+  "addCarMessageError": "Adăugarea unei mașini noi a eșuat",
+  "deleteCarMessageError": "Ștergerea mașinii a eșuat",
+
+  "editExtraMessageSuccessfully": "Detaliile extra au fost modificate cu succes",
+  "addExtraMessageSuccessfully": "Un extra nou a fost adăugat cu succes",
+  "deleteExtraMessageSuccessfully": "Extra a fost șters cu succes",
+  "loginMessageSuccessfully": "Autentificare reușită!",
+  "registerMessageSuccessfully": "Înregistrare reușită!",
+
+  "getExtraMessageError": "Eroare la încărcarea datelor extra",
+  "editExtraMessageError": "Eroare la modificarea detaliilor extra",
+  "addExtraMessageError": "Eroare la adăugarea unui extra nou",
+  "deleteExtraMessageError": "Eroare la ștergerea extraului",
+
+  "registerHereMessage": "Nu aveți un cont? Înregistrați-vă aici!",
+  "loginHereMessage": "Aveți deja un cont? Autentificați-vă aici!",
+  
+  "cannotFindPage": "Pagina solicitată nu a fost găsită.",
+
+  "error": {
+    "network": "Eroare de rețea, te rugăm să încerci din nou mai târziu.",
+    "unauthorized": "Nu ai permisiunea să accesezi această pagină."
+  }
+}
